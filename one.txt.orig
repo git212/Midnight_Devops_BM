@@ -3,4 +3,8 @@ Update one.txt
 Developer 3 updated
 New text bharat added.
 bharat new added
+<<<<<<< HEAD
 New member added
+=======
+one day
+>>>>>>> 29f5199f011e0d78938def12ecb6f29fe20ca649
